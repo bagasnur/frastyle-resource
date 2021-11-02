@@ -9,12 +9,12 @@ Sumber daya Frastyle Framework dengan ketentuan penggunaan sebagai berikut:
 >   4. Repositori ini merupakan sumber daya yang berisikan file-file untuk Frastyle Framework.
 >
 >   ## Ketentuan Penggunaan
->   1. Seluruh file di dalam repositori ini dapat digunakan oleh Anda, pemilik repositori tidak akan bertanggung jawab atas penggunaan satu, beberapa, sebagian ataupun seluruh file sumber daya repositori ini untuk Anda salahgunakan.
->   2. Apabila di kemudian hari ditemukan penyalahgunaan file sumber daya pada repositori ini oleh Anda sehingga menyebabkan Anda berhadapan dengan hukum, pemilik repositori tidak akan bertanggung jawab atas file sumber daya yang telah Anda gunakan.
+>   1. Seluruh file di dalam repositori ini dapat digunakan oleh Anda secara gratis, pemilik repositori tidak akan bertanggung jawab atas penyalahgunaan penggunaan satu, beberapa, sebagian ataupun seluruh file sumber daya repositori ini yang dilakukan oleh Anda.
+>   2. Apabila di kemudian hari ditemukan penyalahgunaan file sumber daya pada repositori ini oleh Anda sehingga menyebabkan Anda berhadapan dengan hukum, pemilik repositori tidak akan bertanggung jawab dan tidak akan terlibat atas file sumber daya yang telah Anda gunakan.
 >   2. Pemilik repositori sangat menghargai Anda dalam penggunaan atribusi untuk sumber daya kami, namun tidak bersifat wajib.
 >   3. "Ketentuan Penggunaan" ini dapat berubah sewaktu-waktu tanpa adanya pemberitahuan terlebih dahulu kepada Anda.
 >   4. Sebelum menggunakan file sumber daya pada repositori ini, Anda wajib membaca, menerima dan menyetujui seluruh "Ketentuan Penggunaan" yang ada.
 >   5. Dengan penggunaan file sumber daya pada repositori ini, berarti Anda telah menyetujui seluruh "Ketentuan Penggunaan" yang ada.
 >
->   ## Hak cipta
->   2020-2021 [Frastyle Framework](https://github.com/frastyle).
+>   ## Atribusi
+>   Oleh [@bagasnur](https://github.com/bagasnur) dan [Tim Frastyle Framework](https://github.com/frastyle/people).
