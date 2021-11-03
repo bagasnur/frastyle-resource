@@ -17,4 +17,4 @@ Sumber daya Frastyle Framework dengan ketentuan penggunaan sebagai berikut:
 >   5. Dengan penggunaan file sumber daya pada repositori ini, berarti Anda telah menyetujui seluruh "Ketentuan Penggunaan" yang ada.
 >
 >   ## Atribusi
->   Oleh [@bagasnur](https://github.com/bagasnur) dan [Tim Frastyle Framework](https://github.com/frastyle/people).
+>   Oleh [@bagasnur](https://github.com/bagasnur) dan [Tim Frastyle Framework](https://github.com/orgs/frastyle/people).
