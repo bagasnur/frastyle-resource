@@ -1,11 +1,11 @@
-# Frastyle Resource
+# 🗃 Frastyle Resource
 
 Sumber daya Frastyle Framework dengan ketentuan penggunaan sebagai berikut:
 
 >   ## Pendahuluan
 >   1. Repositori ini : dalam hal ini dikenal dengan repositori [Frastyle Resource](https://github.com/bagasnur/frastyle-resource) yang dibuat oleh [@bagasnur](https://github.com/bagasnur).
 >   2. Anda : dalam hal ini merupakan semua pihak termasuk individu, kelompok, organisasi, atau perusahaan.
->   3. Pemilik repositori, kami : dalam hal ini merupakan [@bagasnur](https://github.com/bagasnur), [Tim Frastyle](https://github.com/orgs/frastyle/people) atau Organisasi [Frastyle](https://github.com/frastyle).
+>   3. Pemilik repositori, kami : dalam hal ini merupakan [@bagasnur](https://github.com/bagasnur), [Tim Frastyle Dev.](https://github.com/orgs/frastyle/people) atau Organisasi [Frastyle](https://github.com/frastyle).
 >   4. Repositori ini merupakan sumber daya yang berisikan file-file untuk Frastyle Framework.
 >
 >   ## Ketentuan Penggunaan
@@ -17,4 +17,4 @@ Sumber daya Frastyle Framework dengan ketentuan penggunaan sebagai berikut:
 >   5. Dengan penggunaan file sumber daya pada repositori ini, berarti Anda telah menyetujui seluruh "Ketentuan Penggunaan" yang ada.
 >
 >   ## Atribusi
->   Oleh [@bagasnur](https://github.com/bagasnur) dan [Tim Frastyle Framework](https://github.com/orgs/frastyle/people).
+>   Oleh [@bagasnur](https://github.com/bagasnur) dan [Tim Frastyle Dev.](https://github.com/orgs/frastyle/people).
